@@ -1,6 +1,5 @@
-# 👩‍💻 Maryam Rasool – QA Engineer Portfolio
-
-📍 Open to QA Opportunities  
+# Maryam Rasool – QA Engineer Portfolio
+ 
 🔗 LinkedIn: https://www.linkedin.com/in/maryam-rasool-bba1a2292/  
 📧 Email: maryam.rasool.sqa123@gmail.com
 
