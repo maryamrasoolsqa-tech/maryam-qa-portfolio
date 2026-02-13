@@ -7,6 +7,7 @@ Currently expanding my expertise in backend validation through structured practi
 
 🏢 Professional Experience
 
+
 QA Engineer – SaaS Web Application (Startup Environment)
 2024 – Present
 
@@ -41,6 +42,7 @@ MySQL – Database testing practice
 Slack – Team communication
 
 💻 Technical Skills
+
 Functional Testing
 
 Test case design
@@ -80,6 +82,7 @@ Response body validation
 Negative testing scenarios
 
 🔬 Practice Projects
+
 1️⃣ Job & Payroll Management System – Database Testing
 
 Created a relational database schema to simulate real-world job tracking and payroll validation.
